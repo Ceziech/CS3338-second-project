@@ -1,0 +1,102 @@
+commit b5581d8089f261f5a67c9f1102b4dec389b33056
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Wed Feb 12 00:43:23 2025 +0500
+
+    Added merge conflict log
+
+commit f0ef4fc81d3085600b6bd75fffd5f56289774e9c
+Merge: ef42519 7c6780c
+Author: Fatim <117365000+Fatim-Naveed@users.noreply.github.com>
+Date:   Wed Feb 12 00:42:47 2025 +0500
+
+    Merge pull request #2 from Ceziech/teammate-branch
+    
+    teammate merge conflict
+
+commit 7c6780ceaa30dc0388e65e1bd56e893da9da0a9c
+Merge: f8e4610 ef42519
+Author: Fatim <117365000+Fatim-Naveed@users.noreply.github.com>
+Date:   Wed Feb 12 00:42:39 2025 +0500
+
+    Merge branch 'main' into teammate-branch
+
+commit ef4251935678ddf104055add7ec4da77ab6c4cff
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Wed Feb 12 00:35:43 2025 +0500
+
+    Update by me
+
+commit f8e4610c77cf11d3fcbe763212940d07b3cb127d
+Author: Fatim <117365000+Fatim-Naveed@users.noreply.github.com>
+Date:   Wed Feb 12 00:35:40 2025 +0500
+
+    Update by teammate
+
+commit 1b218a1b81b05b9c6ef515ff8c5526aee2608ed6
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Wed Feb 12 00:20:58 2025 +0500
+
+    Added git log and repo location files
+
+commit 922b69310ea8ad3c0ac6ee3adac4bbcc85fface0
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Wed Feb 12 00:04:55 2025 +0500
+
+    Added favorite movie/game div
+
+commit cc952d4f44239d390c53fe6cf42ec721adfe5636
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Wed Feb 12 00:05:39 2025 +0500
+
+    resolved conflic
+
+commit 815c17b088134e49d60cefa1d878a86359a06160
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Tue Feb 11 23:30:40 2025 +0500
+
+    Added a new div
+
+commit 692ad9c01f90b310127227f10097a9750c8cb6ac
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Wed Feb 12 00:04:55 2025 +0500
+
+    Added favorite movie/game div
+
+commit b6dcc1556beb753d01fab33d897842a15ae4f795
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Tue Feb 11 23:32:41 2025 +0500
+
+    Added favorite food div
+
+commit a3307cc5301993c7aa1943c82af858f616255093
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Tue Feb 11 23:27:56 2025 +0500
+
+    Added README.md
+
+commit 1492e990528657a7c8b4e2064bf6e82a3b4eba68
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Tue Feb 11 23:22:49 2025 +0500
+
+    Added README.md
+
+commit 91cfe5ed33bfe5cc95db7aa72393a351ad03f8cd
+Merge: 1d2bfc0 90e5e70
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Tue Feb 11 23:19:21 2025 +0500
+
+    Merge pull request #1 from Ceziech/info-fill
+    
+    Filled in blanks in index.html
+
+commit 90e5e70d71348cf7f92d2ea8d46b68aff67150a2
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Tue Feb 11 22:54:08 2025 +0500
+
+    Filled in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
